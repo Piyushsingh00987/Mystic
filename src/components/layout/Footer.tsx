@@ -45,19 +45,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <MapPin size={18} className="mt-1 mr-2 text-spice-500" />
-                <span className="text-mystic-100/80">Bennett University, Greater Noida India</span>
+                <span className="text-mystic-100/80">Jecrc Jaipur, india</span>
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="mr-2 text-spice-500" />
-                <span className="text-mystic-100/80">+91 95488 64851</span>
-              </li>
-              <li className="flex items-center">
-                <Phone size={18} className="mr-2 text-spice-500" />
-                <span className="text-mystic-100/80">+91 63961 44121</span>
+                <span className="text-mystic-100/80">+91 83688 65047</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-2 text-spice-500" />
-                <span className="text-mystic-100/80">deepanshu95488@gmail.com</span>
+                <span className="text-mystic-100/80">piyushsinghrajput68@gmail.com</span>
               </li>
             </ul>
           </div>
