@@ -65,7 +65,7 @@ Mystic_India/
 ## Contact Information:
 - Name:  PIYUSH KUMAR SINGH
 - Enrollment Number: 23BCOL2280
-- Email: piyushsinghrajput68@gmail.com
+- Email: piyush.23bcol2280@jecrcu.edu.in
 
 
 
